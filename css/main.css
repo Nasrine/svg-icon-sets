@@ -15,16 +15,12 @@ body {
   background-image: linear-gradient(#ff9500, #ff5e3a);
 }
 
-h1 {
-  color: rgba(255, 255, 255, 1);
-}
-
 .icon {
   size: i-192;
 }
 
 .btn{
-  color: #fff ;
+
   font-size: 1.5rem;
   padding: 0.25rem 1.5rem 0.25rem 1.5rem;
   border: 3px solid #fff;
