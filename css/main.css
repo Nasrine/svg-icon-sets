@@ -8,11 +8,15 @@ html {
   -ms-text-size-adjust: 100%;
   -webtext-text-size-adjust: 100%;
   font-family: overpass;
-  color: #fff;
+  color: rgba(255, 255, 255, 1);
 }
 
 body {
-  background: linear-gradient(#ff9500, #ff5e3a);
+  background-image: linear-gradient(#ff9500, #ff5e3a);
+}
+
+h1 {
+  color: rgba(255, 255, 255, 1);
 }
 
 .icon {
@@ -20,7 +24,7 @@ body {
 }
 
 .btn{
-  color: #fff;
+  color: #fff ;
   font-size: 1.5rem;
   padding: 0.25rem 1.5rem 0.25rem 1.5rem;
   border: 3px solid #fff;
